@@ -7,7 +7,7 @@
 
 SELECT 
   ?person ?personLabel ?personDescription ?genderLabel ?image
-  ?countryLabel ?orcid ?linkedin ?twitter ?gscholar ?github
+  ?nationalityLabel ?orcid ?linkedin ?twitter ?gscholar ?github
   # ?affiliationLabel
 WHERE 
 {
@@ -16,7 +16,7 @@ WHERE
   OPTIONAL { ?person wdt:P18 ?image . }
   OPTIONAL { ?person wdt:P21 ?gender . }
   OPTIONAL { ?person wdt:P2002 ?twitter . }
-  OPTIONAL { ?person wdt:P27 ?country . }
+  OPTIONAL { ?person wdt:P27 ?nationality . }
   OPTIONAL { ?person wdt:P6634 ?linkedin . }
   OPTIONAL { ?person wdt:P1960 ?gscholar . }
   OPTIONAL { ?person wdt:P2037 ?github . }
