@@ -7,7 +7,7 @@
 
 SELECT 
   ?person ?personLabel ?personDescription ?genderLabel ?image
-  ?countryLabel ?orcid ?linkedin ?twitter ?gscholar
+  ?countryLabel ?orcid ?linkedin ?twitter ?gscholar ?github
   # ?affiliationLabel
 WHERE 
 {
@@ -19,6 +19,7 @@ WHERE
   OPTIONAL { ?person wdt:P27 ?country . }
   OPTIONAL { ?person wdt:P6634 ?linkedin . }
   OPTIONAL { ?person wdt:P1960 ?gscholar . }
+  OPTIONAL { ?person wdt:P2037 ?github . }
   # OPTIONAL { ?person wdt:P108|wdt:P1416 ?affiliation . }
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". } # Helps get the label in your language, if not, then en language
 }
