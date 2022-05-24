@@ -28,7 +28,9 @@ WHERE
     ?statement ps:P108 ?employer .
     ?employer rdfs:label ?employerLabel
     filter(lang(?employerLabel) = "en")
-    ?statement pq:P580 ?start_date . 
+    OPTIONAL { 
+      ?statement pq:P580 ?start_date . 
+    }
   }
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". } # Helps get the label in your language, if not, then en language
 }
