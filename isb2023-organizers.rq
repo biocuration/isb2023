@@ -9,6 +9,7 @@ SELECT
   ?person ?personLabel ?personDescription ?genderLabel ?image
   ?nationalityLabel ?orcid ?linkedin ?twitter ?gscholar ?github
   # ?affiliationLabel
+  (GROUP_CONCAT(DISTINCT ?topic_label; separator=", ") AS ?topics)
 WHERE 
 {
   wd:Q111430238 wdt:P664|wdt:P5804 ?person .
@@ -20,7 +21,11 @@ WHERE
   OPTIONAL { ?person wdt:P6634 ?linkedin . }
   OPTIONAL { ?person wdt:P1960 ?gscholar . }
   OPTIONAL { ?person wdt:P2037 ?github . }
+  OPTIONAL { ?person wdt:P101 ?topic . ?topic rdfs:label ?topic_label . FILTER (LANG(?topic_label) = 'en') }
   # OPTIONAL { ?person wdt:P108|wdt:P1416 ?affiliation . }
   SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],en". } # Helps get the label in your language, if not, then en language
 }
+GROUP BY
+  ?person ?personLabel ?personDescription ?genderLabel ?image
+  ?nationalityLabel ?orcid ?linkedin ?twitter ?gscholar ?github
 ORDER BY ?personLabel
