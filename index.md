@@ -2,6 +2,7 @@
 layout: home
 title: Home
 ---
+
 The [International Society of Biocuration](https://www.biocuration.org/)'s
 Annual Biocuration Conference provides a forum for curators, developers, and
 users of clinical and life sciences data, knowledge, and models to discuss their
@@ -44,6 +45,8 @@ TBD
 | April 28, 2023     | Conference ends                         |
 
 ## Keynote Speakers
+
+TBD
 
 ## Schedule
 
