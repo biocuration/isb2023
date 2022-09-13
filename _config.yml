@@ -1,0 +1,10 @@
+title: 16th Annual Biocuration Conference
+name: International Society of Biocuration
+
+theme: minima
+github_username: biocuration
+twitter_username: biocurator
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap

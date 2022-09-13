@@ -1,0 +1,114 @@
+- employerLabel_: University of Nevada, Reno
+  genderLabel: male
+  gscholar: IKUyWAkAAAAJ
+  linkedin: caio-carvalho-771b0994
+  nationalityLabel: Brazil
+  orcid: 0000-0002-1138-3356
+  person: Q112041617
+  personDescription: Researcher ORCID = 0000-0002-1138-3356
+  personLabel: Caio Carvalho
+  topics: thioesterase, subgroup, protein structure, phylogenetics
+  twitter: caiocdecarvalho
+- employerLabel_: Harvard Medical School
+  genderLabel: male
+  github: cthoyt
+  gscholar: PjrpzUIAAAAJ
+  image: http://commons.wikimedia.org/wiki/Special:FilePath/Charles%20Tapley%20Hoyt%202019.jpg
+  linkedin: cthoyt
+  max_start_date: '2021-02-15T00:00:00Z'
+  nationalityLabel: United States of America
+  orcid: 0000-0003-4423-4370
+  person: Q47475003
+  personDescription: American chemist
+  personLabel: Charles Tapley Hoyt
+  topics: knowledge graph, ontology, natural language processing
+  twitter: cthoyt
+- employerLabel_: Lawrence Berkeley National Laboratory
+  genderLabel: male
+  github: deepakunni3
+  gscholar: 38ZnUjsAAAAJ
+  linkedin: deepakunni3
+  max_start_date: '2018-02-05T00:00:00Z'
+  nationalityLabel: India
+  orcid: 0000-0002-3583-7340
+  person: Q59690671
+  personDescription: researcher ORCID ID = 0000-0002-3583-7340
+  personLabel: Deepak R. Unni
+  topics: data visualization, Genome browser, knowledge graph, semantic search, data
+    modeling, genomics, ontology, Semantic Web
+  twitter: deepakunni3
+- employerLabel_: University of Padua
+  genderLabel: female
+  github: federicaquaglia
+  gscholar: q5qtfVcAAAAJ
+  linkedin: federica-quaglia-b8497613b
+  max_start_date: '2021-01-03T00:00:00Z'
+  nationalityLabel: Italy
+  orcid: 0000-0002-0341-4888
+  person: Q87054158
+  personDescription: biocurator, researcher
+  personLabel: Federica Quaglia
+  topics: biocuration, intrinsically unstructured proteins, protein-protein interaction,
+    ontology
+  twitter: FedeQuaglia89
+- employerLabel_: Georgetown University
+  genderLabel: female
+  github: monicacecilia
+  gscholar: 0bGKBS0AAAAJ
+  linkedin: monimunozto
+  max_start_date: '2018-01-01T00:00:00Z'
+  nationalityLabel: Colombia
+  orcid: 0000-0001-8430-6039
+  person: Q91376977
+  personDescription: researcher (ORCID 0000-0001-8430-6039)
+  personLabel: Monica Munoz-Torres
+  topics: knowledge representation and reasoning, biocuration, data science, comparative
+    genomics, human disease, genomics
+  twitter: monimunozto
+- genderLabel: female
+  github: paolaroncaglia
+  gscholar: mruxdxAAAAAJ
+  linkedin: paolaroncaglia
+  nationalityLabel: Italy
+  orcid: 0000-0002-2825-0621
+  person: Q47139534
+  personDescription: researcher
+  personLabel: Paola Roncaglia
+  topics: transcriptomics, genome annotation, Genome Annotation, cell type, Gene Ontology,
+    ontology
+  twitter: paola_roncaglia
+- employerLabel_: Swiss Institute of Bioinformatics
+  genderLabel: male
+  gscholar: Bz8HmVoAAAAJ
+  linkedin: philippe-le-mercier-846b5713
+  max_start_date: '2004-01-01T00:00:00Z'
+  nationalityLabel: Switzerland
+  orcid: 0000-0001-8528-090X
+  person: Q82415251
+  personDescription: researcher
+  personLabel: Philippe Le Mercier
+  topics: molecular virology, biocuration, bioinformatics, virology
+  twitter: ViralZone
+- employerLabel_: University College London
+  genderLabel: female
+  github: RLovering
+  gscholar: _os7irwAAAAJ
+  linkedin: ruthlovering
+  orcid: 0000-0002-9791-0064
+  person: Q53590460
+  personDescription: researcher
+  personLabel: Ruth Lovering
+  topics: ''
+- genderLabel: male
+  github: lubianat
+  gscholar: _1bOZ5cAAAAJ
+  image: http://commons.wikimedia.org/wiki/Special:FilePath/WikiCon%20Brasil%202022%20-%20Ferramentas%20de%20contribui%C3%A7%C3%A3o%20em%20massa%20no%20Wikidata%20e%20Commons%20-%20Tiago%20Lubiana%20%2802%29%20%28cropped%29.jpg
+  linkedin: tiago-lubiana-178a3784
+  employerLabel_: Universidade de São Paulo
+  nationalityLabel: Brazil
+  orcid: 0000-0003-2473-2313
+  person: Q90076935
+  personDescription: researcher
+  personLabel: Tiago Lubiana
+  topics: bioinformatics
+  twitter: lubianat
