@@ -3,6 +3,7 @@ layout: default
 title: Travel
 permalink: /travel
 ---
+
 ## Applying for an Italian Visa
 
 The [official page](https://vistoperitalia.esteri.it/home/en) from the Italian
@@ -32,21 +33,25 @@ about traveling to Italy, please visit the
 
 The following are the closest airports (all in Italy) based on distances and
 the fastest route to Padova's train station. More information on reaching Padova
-by plane can be found on Padova's [tourism website](https://www.turismopadova.it/en/how-to-reach-us/by-plane/).
+by plane can be found on
+Padova's [tourism website](https://www.turismopadova.it/en/how-to-reach-us/by-plane/)
+.
 
-| Airport                                                         | Distance | Notes                                                                                  |
-|-----------------------------------------------------------------|----------|----------------------------------------------------------------------------------------|
-| [Venice Marco Polo](https://www.veneziaairport.it/en/)          | 47 km    |                                                                                        |
-| [Treviso Antonio Canova](https://www.trevisoairport.it/en/)     | 57 km    | This airport is often called _Venice Treviso_. It is mainly used by low-cost companies |
-| [Verona Valerio Catullo](https://www.aeroportoverona.it/)       | 90 km    |                                                                                        |
-| [Bologna Guglielmo Marconi](https://www.bologna-airport.it/en/) | 120 km   |                                                                                        |
-| [Trieste Ronchi dei Legionari](https://triesteairport.it/en/)   | 155 km   |                                                                                        |
+| Airport                                                         | Distance | Notes                                                                                                                                                                                                                                               |
+|-----------------------------------------------------------------|----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Venice Marco Polo](https://www.veneziaairport.it/en/)          | 47 km    | Direct bus connection to Padova provided hourly by [BUSITALIA](https://www.fsbusitalia.it/content/fsbusitalia/eng.html). Tickets can be purchased on board.                                                                                         |
+| [Treviso Antonio Canova](https://www.trevisoairport.it/en/)     | 57 km    | This airport is often called _Venice Treviso_. It is mainly used by low-cost companies. Direct bus connection to Padova provided hourly by [BUSITALIA](https://www.fsbusitalia.it/content/fsbusitalia/eng.html). Tickets can be purchased on board. |
+| [Verona Valerio Catullo](https://www.aeroportoverona.it/)       | 90 km    |                                                                                                                                                                                                                                                     |
+| [Bologna Guglielmo Marconi](https://www.bologna-airport.it/en/) | 120 km   |                                                                                                                                                                                                                                                     |
+| [Trieste Ronchi dei Legionari](https://triesteairport.it/en/)   | 155 km   |                                                                                                                                                                                                                                                     |
 
 Most international flights will have a connection through one of the two main
 Italian international airports: [Rome Fiumicino](https://www.adr.it/fiumicino)
 or [Milano Malpensa](https://www.milanomalpensa-airport.com/it/). From there,
 it is either possible to take a domestic flight to Venice or Treviso or
 a train from the respective main stations _Roma Termini_ or _Milano Centrale_.
+
+Private shuttles can be booked in advance through [GoOpti](https://www.goopti.com/en/).
 
 ### By Train
 
