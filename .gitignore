@@ -1,3 +1,5 @@
 .jekyll-cache
 _site
 *.pyc
+.sass-cache
+
