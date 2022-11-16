@@ -40,7 +40,7 @@ Each applicant for a travel fellowship must satisfy the following conditions:
 ## Important Dates
 
 - Applications due by February 1st, 2023. Application materials should be sent
-  to ISB via email to intsocbio@gmail.com with the subject line
-  `Travel Fellowships to Biocuration 2019`
+  to ISB via email to [mailto:intsocbio@gmail.com](intsocbio@gmail.com) with the subject line
+  `Travel Fellowships to Biocuration 2023`
 - Notification of awards will be sent via email by February 15th, 2023. Early
   Bird rates will be extended for Fellowship winners.
