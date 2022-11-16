@@ -9,7 +9,7 @@ permalink: /organizers
 <dl>
 {% for person in site.data.organizing_committee %}
 <dt>
-    <strong>{{ person.personLabel }}</strong>
+    <strong>{{ person.personLabel }}{% if person.note %} ({{ person.note }}){% endif %}</strong>
 </dt>
 <dd>
     <a href="https://bioregistry.io/orcid:{{ person.orcid }}">
@@ -36,7 +36,7 @@ permalink: /organizers
 <dl>
 {% for person in site.data.program_committee %}
 <dt>
-    <strong>{{ person.personLabel }}</strong>
+    <strong>{{ person.personLabel }}{% if person.note %} ({{ person.note }}){% endif %}</strong>
 </dt>
 <dd>
     <a href="https://bioregistry.io/orcid:{{ person.orcid }}">

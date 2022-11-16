@@ -1,3 +1,29 @@
+- employerLabel_: University of Geneva
+  genderLabel: female
+  gscholar: wudILEcAAAAJ
+  linkedin: frederique-lisacek-6028275
+  nationalityLabel: France
+  orcid: 0000-0002-0948-4537
+  person: Q28609783
+  personDescription: French bioinformatician
+  personLabel: "Fr\xE9d\xE9rique Lisacek"
+  topics: glycoproteomics, interactomics, protein-protein interaction, glycoprotein,
+    Semantic Web
+  twitter: GlycomicsExpasy
+  note: Chair
+- employerLabel_: Tor Vergata University of Rome
+  genderLabel: female
+  gscholar: _AvozfEAAAAJ
+  linkedin: luana-licata-22a62153
+  nationalityLabel: Italy
+  orcid: 0000-0001-5084-9000
+  person: Q30158411
+  personDescription: researcher
+  personLabel: Luana Licata
+  topics: host-pathogen interaction, biological database, biocuration, molecular interaction,
+    protein-protein interaction, ontology
+  twitter: MINT_database
+  note: Co-Chair
 - employerLabel_: European Bioinformatics Institute
   genderLabel: female
   github: deeptijk
@@ -11,18 +37,6 @@
   personLabel: Deepti J Kundu
   topics: small molecule, protein structure, proteomics, bioinformatics, carbohydrate
   twitter: DeeptiJaiswal
-- employerLabel_: University of Geneva
-  genderLabel: female
-  gscholar: wudILEcAAAAJ
-  linkedin: frederique-lisacek-6028275
-  nationalityLabel: France
-  orcid: 0000-0002-0948-4537
-  person: Q28609783
-  personDescription: French bioinformatician
-  personLabel: "Fr\xE9d\xE9rique Lisacek"
-  topics: glycoproteomics, interactomics, protein-protein interaction, glycoprotein,
-    Semantic Web
-  twitter: GlycomicsExpasy
 - employerLabel_: AstraZeneca
   genderLabel: female
   github: JenHarrow
@@ -49,18 +63,6 @@
   topics: network analysis, biocuration, molecular interaction, signal transduction,
     systems biology, protein-protein interaction, ontology
   twitter: PerfettoLivia
-- employerLabel_: Tor Vergata University of Rome
-  genderLabel: female
-  gscholar: _AvozfEAAAAJ
-  linkedin: luana-licata-22a62153
-  nationalityLabel: Italy
-  orcid: 0000-0001-5084-9000
-  person: Q30158411
-  personDescription: researcher
-  personLabel: Luana Licata
-  topics: host-pathogen interaction, biological database, biocuration, molecular interaction,
-    protein-protein interaction, ontology
-  twitter: MINT_database
 - employerLabel_: St. John's University
   genderLabel: male
   github: gillespm
@@ -111,7 +113,7 @@
   personLabel: Peter Uetz
   topics: Protein function prediction, protein-protein interaction, biodiversity
   twitter: peteruetz
-- employerLabel_: Anschutz Medical Campus
+- employerLabel_: University of Colorado Anschutz Medical Campus
   genderLabel: female
   github: sabrinatoro
   gscholar: 0EmO2vwAAAAJ

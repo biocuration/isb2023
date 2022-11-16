@@ -34,16 +34,16 @@ TBD
 |---------------------|-----------------------------------------|
 | TBD                 | Abstract submission opens               |
 | TBD                 | Conference registration begins          |
-| TBD                 | Travel grant application begins         |
-| ~November 30, 2022~ | Abstract submission deadline            |
-| ~December 16, 2022~ | Abstract acceptance notification        |
-| February 7th, 2023  | Early Bird conference registration ends |
-| February 1st, 2023  | Travel grant application ends           |
-| February 15th, 2023 | Travel grant decisions sent             |
-| March 31, 2023      | Camera-ready submission deadline        |
-| April 18, 2023      | Conference registration ends            |
-| April 25, 2023      | Conference starts                       |
-| April 28, 2023      | Conference ends                         |
+| December 23rd, 2022 | Abstract submission deadline            |
+| January 13th, 2022  | Abstract acceptance notification        |
+| January 25th, 2023  | Travel grant application ends           |
+| January 31st, 2023  | Early Bird conference registration ends |
+| February 2nd, 2023  | Travel grant decisions sent             |
+| March 31st, 2023    | Camera-ready submission deadline        |
+| April 14th, 2023    | Conference booklet released             |
+| April 18th, 2023    | Conference registration ends            |
+| April 24th, 2023    | Conference starts                       |
+| April 26th, 2023    | Conference ends                         |
 
 ## Keynote Speakers
 
