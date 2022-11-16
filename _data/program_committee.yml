@@ -74,19 +74,19 @@
   personLabel: Marc Gillespie
   topics: protein science, proteomics, bioinformatics, toxicology, molecular biology
   twitter: marcgillespie
-- employerLabel_: Stanford University
+- employerLabel_: University of Zurich
   genderLabel: male
   github: mbaudis
   gscholar: qKbjZK4AAAAJ
   image: http://commons.wikimedia.org/wiki/Special:FilePath/Michael-Baudis.jpg
   linkedin: mbaudis
   max_start_date: '2015-08-01T00:00:00Z'
-  nationalityLabel: Germany
+  nationalityLabel: Switzerland
   orcid: 0000-0002-9903-4248
   person: Q30505717
-  personDescription: researcher
+  personDescription: Professor of Bioinformatics
   personLabel: Michael Baudis
-  topics: Global Alliance for Genomics and Health, genomics, ontology, hematology
+  topics: Global Alliance for Genomics and Health, genomics, ontology, hematology, oncogenomics, cancer
   twitter: mbaudis
 - employerLabel_: United States National Library of Medicine
   genderLabel: male
@@ -111,7 +111,7 @@
   personLabel: Peter Uetz
   topics: Protein function prediction, protein-protein interaction, biodiversity
   twitter: peteruetz
-- employerLabel_: Oregon State University
+- employerLabel_: Anschutz Medical Campus
   genderLabel: female
   github: sabrinatoro
   gscholar: 0EmO2vwAAAAJ
