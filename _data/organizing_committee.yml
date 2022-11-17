@@ -63,7 +63,12 @@
   topics: data visualization, Genome browser, knowledge graph, semantic search, data
     modeling, genomics, ontology, Semantic Web
   twitter: deepakunni3
-- employerLabel_: Georgetown University
+- orcid: 0000-0002-4937-6952
+  personLabel: Maria Cristina Aspromonte
+  person: Q90663571
+  nationalityLabel: Italy
+  employerLabel_: University of Padua
+- employerLabel_: University of Colorado - Anschutz Medical Campus
   genderLabel: female
   github: monicacecilia
   gscholar: 0bGKBS0AAAAJ
@@ -106,6 +111,7 @@
   github: RLovering
   gscholar: _os7irwAAAAJ
   linkedin: ruthlovering
+  twitter: RuthCLovering
   orcid: 0000-0002-9791-0064
   person: Q53590460
   personDescription: researcher
