@@ -60,7 +60,8 @@ permalink: /organizers
 
 ## Travel Fellowship Committee
 
-See [here](fellowships) for more information about how to apply for a travel fellowship.
+See [here](https://www.biocuration.org/travel-fellowship/) for more information about how to apply for a travel
+fellowship.
 
 <dl>
 {% for person in site.data.travel_committee %}
